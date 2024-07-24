@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+ a{
+    text-decoration: none;
+    color: white;
+}
+.carousel-item{
+    height: 20%;
+}
+
+.img-transition {
+    transition: transform 0.3s ease;
+}
+
+.img-transition:hover {
+    transform: scale(1.1); /* Example transformation on hover */
+}
+
+
+
+
+
+
+
+
